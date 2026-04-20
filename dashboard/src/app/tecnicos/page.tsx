@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { UserPlus, Search, Download } from 'lucide-react-native';
+import { UserPlus, Search, Download } from 'lucide-react';
 
 const techs = [
   { id: 1, name: 'Roberto Gómez', status: 'online', orders: 12, commission: '$ 3,450.00', lastActive: 'Ahora' },

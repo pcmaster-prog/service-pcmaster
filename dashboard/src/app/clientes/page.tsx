@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState } from 'react';
-import { Search, UserPlus, MapPin, Filter, MoreHorizontal } from 'lucide-react-native';
+import { Search, UserPlus, MapPin, Filter, MoreHorizontal } from 'lucide-react';
 
 const allClients = [
   { id: 1, name: 'Hospital General Irapuato', phone: '4621234567', zone: 'Centro', rating: 5, balance: '$ 1,200.50', status: 'active' },

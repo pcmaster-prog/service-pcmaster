@@ -4,7 +4,7 @@ import React from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import styles from './sidebar.module.scss';
-import { LayoutDashboard, Users, UserCog, ClipboardList, Settings, CreditCard } from 'lucide-react-native';
+import { LayoutDashboard, Users, UserCog, ClipboardList, Settings, CreditCard } from 'lucide-react';
 
 const menuItems = [
   { name: 'Resumen', path: '/', icon: LayoutDashboard },

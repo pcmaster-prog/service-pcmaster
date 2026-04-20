@@ -15,16 +15,21 @@ export const initDb = async () => {
       balance REAL DEFAULT 0.0
     );
 
-    CREATE TABLE IF NOT EXISTS orders (
+    CREATE TABLE IF NOT EXISTS services (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
-      client_id INTEGER,
-      description TEXT,
-      status TEXT DEFAULT 'open', -- open, executing, finished, pending_payment
-      amount REAL,
-      commission_type TEXT, -- fixed, percentage
-      commission_value REAL,
-      created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
-      FOREIGN KEY (client_id) REFERENCES clients(id)
+      name TEXT NOT NULL,
+      base_price REAL NOT NULL,
+      commission_percentage REAL DEFAULT 10.0
+    );
+
+    CREATE TABLE IF NOT EXISTS order_items (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      order_id INTEGER,
+      service_id INTEGER,
+      price_at_time REAL,
+      tech_commission REAL,
+      FOREIGN KEY (order_id) REFERENCES orders(id),
+      FOREIGN KEY (service_id) REFERENCES services(id)
     );
   `);
   console.log('Database initialized');

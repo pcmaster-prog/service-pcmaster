@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { PlusCircle, Search, FileText, Calendar, ShieldCheck } from 'lucide-react-native';
+import { PlusCircle, Search, FileText, Calendar, ShieldCheck } from 'lucide-react';
 
 const currentPolicies = [
   { id: 'P-101', client: 'Hospital General Irapuato', type: 'Premium', equipment: 15, joined: '10/01/2026', renewal: '10/01/2027', status: 'active', monthly: '$ 2,500.00' },

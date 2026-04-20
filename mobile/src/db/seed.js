@@ -22,8 +22,20 @@ export const seedData = async () => {
     VALUES (1, 'Mantenimiento Preventivo Servidores', 'executing', 1500.00, 'percentage', 10)`);
   await db.runAsync(`INSERT INTO orders (client_id, description, status, amount, commission_type, commission_value) 
     VALUES (2, 'Reparación Enfriador Industrial', 'finished', 3500.00, 'fixed', 500)`);
-  await db.runAsync(`INSERT INTO orders (client_id, description, status, amount, commission_type, commission_value) 
-    VALUES (5, 'Instalación Red de Fibra', 'pending_payment', 12000.00, 'percentage', 15)`);
+  const serviceResult = await db.getAllAsync('SELECT count(*) as count FROM services');
+  if (serviceResult[0].count === 0) {
+    const services = [
+      { name: 'Formateo de Equipo', price: 700.0, commission: 15.0 },
+      { name: 'Mantenimiento Preventivo', price: 700.0, commission: 12.0 },
+      { name: 'Instalación de Software', price: 350.0, commission: 10.0 },
+      { name: 'Diagnóstico Avanzado', price: 450.0, commission: 20.0 }
+    ];
 
-  console.log('Seed data injected for Irapuato, Gto.');
+    for (const s of services) {
+      await db.runAsync('INSERT INTO services (name, base_price, commission_percentage) VALUES (?, ?, ?)', 
+        [s.name, s.price, s.commission]);
+    }
+  }
+
+  console.log('Seed data injected: Clients and Service Catalog.');
 };
