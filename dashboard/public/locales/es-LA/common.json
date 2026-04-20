@@ -1,0 +1,30 @@
+{
+  "common": {
+    "welcome": "Bienvenido a Service PC Master",
+    "dashboard": "Panel de Control",
+    "technicians": "Técnicos",
+    "clients": "Clientes",
+    "policies": "Pólizas",
+    "reports": "Reportes",
+    "currency": "$"
+  },
+  "dashboard": {
+    "total_balance": "Saldo Total",
+    "pending_jobs": "Servicios Pendientes",
+    "active_techs": "Técnicos en Campo"
+  },
+  "orders": {
+    "create": "Nueva Orden de Servicio",
+    "budget": "Presupuesto",
+    "status": {
+      "open": "Abierto",
+      "executing": "En Ejecución",
+      "finished": "Terminado",
+      "pending_payment": "Pendiente de Cobro"
+    }
+  },
+  "auth": {
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión"
+  }
+}
