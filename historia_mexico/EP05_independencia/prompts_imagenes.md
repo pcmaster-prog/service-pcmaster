@@ -1,0 +1,62 @@
+# 🎨 48 Prompts de Imagen
+**Tema:** El Grito de Libertad: La Independencia
+**Para usar en:** ChatGPT Image 2.0 / DALL-E 3
+**Ritmo:** 1 imagen cada 3.75s = 3 minutos exactos
+
+---
+
+**Image 1/48:** A dark night sky with a single torch illuminating the face of Miguel Hidalgo y Costilla, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 2/48:** A close-up of Miguel Hidalgo y Costilla's face, his eyes filled with determination, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 3/48:** A wide shot of the city of Dolores, with the church and the crowd gathered around Hidalgo, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 4/48:** A medium shot of Hidalgo standing on the steps of the church, calling out to the crowd, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 5/48:** A close-up of the crowd's faces, filled with excitement and determination, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 6/48:** A wide shot of the crowd surging forward, waving their arms and shouting, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 7/48:** A shot of the Spanish flag being torn down, and the Mexican flag being raised, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 8/48:** A close-up of a Spanish soldier's face, filled with shock and fear, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 9/48:** A wide shot of the city of Guanajuato, with the insurgents fighting against the Spanish, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 10/48:** A medium shot of José María Morelos, leading the charge against the Spanish, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 11/48:** A close-up of a cannon firing, with flames and smoke erupting from the barrel, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 12/48:** A wide shot of the battle-scarred landscape, with bodies and debris scattered everywhere, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 13/48:** A shot of Hidalgo being captured by the Spanish, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 14/48:** A close-up of Hidalgo's face, filled with sadness and resignation, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 15/48:** A wide shot of the city of Chihuahua, with Hidalgo's execution taking place in the center, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 16/48:** A medium shot of the Spanish firing squad, aiming their rifles at Hidalgo, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 17/48:** A close-up of the moment of Hidalgo's execution, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 18/48:** A wide shot of the insurgents, led by Morelos, continuing the fight against the Spanish, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 19/48:** A shot of the Tratados de Córdoba being signed, with Agustín de Iturbide and Vicente Guerrero present, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 20/48:** A close-up of the Tratados de Córdoba document, with the signatures of Iturbide and Guerrero, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 21/48:** A wide shot of the Ejército Trigarante marching towards the Ciudad de México, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 22/48:** A medium shot of Iturbide riding a horse, leading the Ejército Trigarante, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 23/48:** A close-up of the crowd cheering as the Ejército Trigarante enters the Ciudad de México, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 24/48:** A wide shot of the Constitución de 1824 being written, with the founding fathers present, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 25/48:** A shot of the Constitución de 1824 document, with the signatures of the founding fathers, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 26/48:** A close-up of Guadalupe Victoria's face, filled with determination and leadership, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 27/48:** A wide shot of the Ciudad de México, with the new government in place, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 28/48:** A medium shot of Victoria meeting with his cabinet, discussing the future of the country, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 29/48:** A close-up of a document being signed, with the seal of the new government, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 30/48:** A wide shot of the country, with the people working together to rebuild and grow, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 31/48:** A shot of a farmer working in the fields, with the Mexican flag waving in the background, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 32/48:** A close-up of a child's face, smiling and looking up at the flag, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 33/48:** A wide shot of the city, with people going about their daily lives, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 34/48:** A medium shot of a group of people gathered around a fire, listening to a storyteller, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 35/48:** A close-up of the storyteller's face, filled with passion and conviction, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 36/48:** A wide shot of the desert landscape, with a lone figure walking in the distance, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 37/48:** A shot of a group of people gathered around a table, discussing and laughing, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 38/48:** A close-up of a person's hands, crafting a traditional Mexican instrument, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 39/48:** A wide shot of a traditional Mexican dance, with the dancers performing in a colorful and vibrant setting, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 40/48:** A medium shot of a group of people gathered around a traditional Mexican meal, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 41/48:** A close-up of a person's face, filled with joy and gratitude, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 42/48:** A wide shot of the country, with the sun setting over the mountains, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 43/48:** A shot of a group of people gathered around a campfire, looking up at the stars, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 44/48:** A close-up of a person's hands, holding a small Mexican flag, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 45/48:** A wide shot of the Ciudad de México, with the people celebrating and waving flags, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 46/48:** A medium shot of Guadalupe Victoria standing on a balcony, waving to the crowd, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 47/48:** A close-up of the Mexican flag, waving in the wind, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+**Image 48/48:** A wide shot of the country, with the sun rising over the mountains, and the words "¡Viva México!" appearing on the screen, epic historical illustration style, cinematic dramatic lighting, rich deep colors, detailed characters and ancient environments, 9:16 vertical format
+
+---
+## 💡 Instrucciones de uso en CapCut
+1. Genera cada imagen en ChatGPT Image 2.0
+2. Descarga en resolución máxima
+3. Importa las 48 en orden → duración 3.75s c/u
+4. Aplica efecto Ken Burns (zoom suave) a cada imagen

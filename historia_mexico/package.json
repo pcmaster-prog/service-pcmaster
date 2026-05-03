@@ -1,0 +1,28 @@
+{
+  "name": "historia-de-mexico-tiktok",
+  "version": "1.0.0",
+  "description": "Sistema de producción de contenido TikTok sobre Historia de México con Agentes de IA",
+  "main": "orquestador.js",
+  "scripts": {
+    "ep01": "node orquestador.js EP01",
+    "ep02": "node orquestador.js EP02",
+    "ep03": "node orquestador.js EP03",
+    "ep04": "node orquestador.js EP04",
+    "ep05": "node orquestador.js EP05",
+    "ep06": "node orquestador.js EP06",
+    "ep07": "node orquestador.js EP07",
+    "ep08": "node orquestador.js EP08",
+    "ep09": "node orquestador.js EP09",
+    "ep10": "node orquestador.js EP10",
+    "todos": "node orquestador.js TODOS",
+    "tema": "node orquestador.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "axios": "^1.15.2",
+    "dotenv": "^16.6.1",
+    "groq-sdk": "^1.1.2",
+    "gtts": "^0.2.1",
+    "openai": "^4.52.0"
+  }
+}

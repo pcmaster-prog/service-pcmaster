@@ -1,20 +1,13 @@
 {
   "compilerOptions": {
-    "module": "nodenext",
     "target": "esnext",
-    "types": [],
-    "sourceMap": true,
-    "declaration": true,
-    "declarationMap": true,
-    "noUncheckedIndexedAccess": true,
-    "exactOptionalPropertyTypes": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
     "strict": true,
     "jsx": "react-jsx",
-    "verbatimModuleSyntax": true,
+    "skipLibCheck": true,
     "isolatedModules": true,
-    "noUncheckedSideEffectImports": true,
-    "moduleDetection": "force",
-    "skipLibCheck": true
+    "noEmit": true
   },
   "extends": "expo/tsconfig.base"
 }

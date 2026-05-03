@@ -22,6 +22,18 @@ export const initDb = async () => {
       commission_percentage REAL DEFAULT 10.0
     );
 
+    CREATE TABLE IF NOT EXISTS orders (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      client_id INTEGER,
+      description TEXT,
+      status TEXT DEFAULT 'pending',
+      amount REAL,
+      commission_type TEXT,
+      commission_value REAL,
+      created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+      FOREIGN KEY (client_id) REFERENCES clients(id)
+    );
+
     CREATE TABLE IF NOT EXISTS order_items (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       order_id INTEGER,

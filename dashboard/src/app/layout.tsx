@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Sidebar from "@/components/sidebar/Sidebar";
+import Sidebar from "../components/sidebar/Sidebar";
+import AIAssistant from "../components/ai/AIAssistant";
 
 export const metadata: Metadata = {
   title: "Service PC Master | Admin Dashboard",
@@ -19,6 +20,7 @@ export default function RootLayout({
         <main className="main-content">
           {children}
         </main>
+        <AIAssistant />
       </body>
     </html>
   );

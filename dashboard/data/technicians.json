@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Ing. Ricardo Pérez", "specialty": "Servidores y Redes", "status": "active", "rating": 5 },
+  { "id": 2, "name": "Tec. María García", "specialty": "Laptops y Mac", "status": "active", "rating": 4 },
+  { "id": 3, "name": "Juan Rodríguez", "specialty": "Impresoras Industriales", "status": "on-site", "rating": 5 }
+]
