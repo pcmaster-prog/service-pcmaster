@@ -36,3 +36,5 @@ filter.txt
 .vscode/
 .DS_Store
 Thumbs.db
+
+.mcp.json
