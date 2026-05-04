@@ -1,0 +1,3 @@
+[submodule "plataforma_pcmaster"]
+	path = plataforma_pcmaster
+	url = https://github.com/pcmaster-prog/services_ia.git
