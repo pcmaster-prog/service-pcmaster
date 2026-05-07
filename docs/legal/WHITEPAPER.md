@@ -1,7 +1,7 @@
 # PC Master Ecosystem: El Futuro del Soporte IT Autónomo
 
 ## 1. Visión General
-PC Master es una plataforma descentralizada que fusiona Inteligencia Artificial de vanguardia con una red global de especialistas en IT bajo el modelo de "Gig Economy". Nuestra meta es reducir el tiempo de inactividad tecnológica a cero.
+PC Master es una plataforma descentralizada que fusiona Inteligencia Artificial de vanguardia con una red global de especialistas en IT bajo el modelo de "Gig Economy". Nuestra meta es reducir el tiempo de inactividad tecnológica a cero en ecosistemas **Windows, Linux y Android**.
 
 ## 2. Los Pilares de la Operación
 ### A. El Cerebro Cuántico (Orquestador IA)
